@@ -1,0 +1,25 @@
+@charset "UTF-8";
+
+@use './foundation/normalize';
+
+@mixin fontSize($size: 16) {
+  font-size: $size / 16 * 1rem;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  height: 100%;
+  @include fontSize(16);
+}
+
+a {
+  text-decoration: none;
+}

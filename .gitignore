@@ -4,6 +4,7 @@
 # package
 node_modules
 yarn.lock
+yarn-*
 
 # output
 lib
