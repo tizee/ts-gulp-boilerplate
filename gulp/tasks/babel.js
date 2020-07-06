@@ -2,6 +2,7 @@ const { src, dest } = require('gulp');
 const babel = require('gulp-babel'); // gulp plugin for babel
 // more usages on https://www.npmjs.com/package/gulp-babel
 const sourcemaps = require('gulp-sourcemaps');
+// https://github.com/gulp-sourcemaps/gulp-sourcemaps
 
 module.exports = function babelCompile() {
   return src('src/**/*.{js,ts}')

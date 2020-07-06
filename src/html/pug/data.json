@@ -1,0 +1,15 @@
+{
+  "meta": {
+    "domain": "localhost",
+    "websiteName": "template pug",
+    "keywords": "template, pug"
+  },
+  "pages": {
+    "index": {
+      "title": "template",
+      "name": "index page",
+      "description": "Hello pug",
+      "path": "/"
+    }
+  }
+}
