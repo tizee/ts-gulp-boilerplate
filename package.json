@@ -64,7 +64,7 @@
     "typescript": "^3.9.6",
     "vinyl-source-stream": "^2.0.0",
     "watchify": "^3.11.1",
-    "webpack": "^4.43.0",
+    "webpack": "^5.1.1",
     "webpack-stream": "^5.2.1",
     "winston": "^3.3.3"
   },
