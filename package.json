@@ -59,7 +59,7 @@
     "prettier": "^2.0.5",
     "readable-stream": "^3.6.0",
     "sass": "^1.26.9",
-    "ts-loader": "^7.0.5",
+    "ts-loader": "^9.0.0",
     "tsify": "^4.0.2",
     "typescript": "^3.9.6",
     "vinyl-source-stream": "^2.0.0",
