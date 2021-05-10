@@ -60,7 +60,7 @@
     "readable-stream": "^3.6.0",
     "sass": "^1.26.9",
     "ts-loader": "^7.0.5",
-    "tsify": "^4.0.2",
+    "tsify": "^5.0.3",
     "typescript": "^3.9.6",
     "vinyl-source-stream": "^2.0.0",
     "watchify": "^3.11.1",
